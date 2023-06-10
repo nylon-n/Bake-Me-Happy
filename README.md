@@ -1,6 +1,6 @@
 # Bake Me Happy
 <p align="center">
-  <img src="https://github.com/nylon-n/Bake-Me-Happy/assets/92997362/ed96373a-a13a-4c38-a23a-e0a203c5b9e5">
+  <img src="https://github.com/tinebasilio/Bake-Me-Happy/assets/92997362/ed96373a-a13a-4c38-a23a-e0a203c5b9e5">
 </p>
 
 ## Table of Contents

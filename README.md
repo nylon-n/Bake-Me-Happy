@@ -20,4 +20,6 @@
 - Cake Details
 ![image](https://github.com/tinebasilio/Bake-Me-Happy/assets/92997362/ea638bf0-b831-4f56-9e8a-4d2e5fa43eb2)
 - Cart (with checkout form)
+![image](https://github.com/nylon-n/Bake-Me-Happy/assets/92997362/03f300f4-8676-4e9e-8a70-8fdc5db4bf89)
 - Order summary
+![image](https://github.com/nylon-n/Bake-Me-Happy/assets/92997362/9b066332-14dd-4ff8-915e-abe89c49c0a3)
